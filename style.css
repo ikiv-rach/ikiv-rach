@@ -16,6 +16,7 @@ body{background-color:#ADD8E6;
     margin-left:45vw;
     padding:20px;
 }
+
 form{
     padding:40px ;
     border-radius: 1.5rem 1.5rem 1.5rem  0;
@@ -30,12 +31,13 @@ form{
     float:none;
     
 }
+
 form h1{
     color:rgb(45, 45, 122);
     font-size: 20px;
     padding:0 50px 0 50px;
-  
 }
+
 form p{
     font-size: 13px;
     padding:0 20px 30px 20px;
@@ -46,12 +48,10 @@ form p{
 
 }
 label{font-size: 12px;
-    font-weight:400em;
-    
-
+    font-weight:400em;   
 }
-form Input{
 
+form Input{
     border-radius: 0.2rem;
     border: 15px solid #e2e8f0;
     margin:5px 0 20px 0;
@@ -60,16 +60,14 @@ form Input{
     
 }
 
-
 form select{
     border-radius: 0.2rem;
     border: 15px solid  #e2e8f0;
-   
     background-color: #e2e8f0;
     padding:0 100px 0 0px;
     line-height: 1.5;
-
 }
+
 form option{
     background-color:white;
     margin:20px;
@@ -92,13 +90,13 @@ button:hover{
     background-color: rgb(38, 38, 94);
     border: 15px solid rgb(38, 38, 94);
     
-    
 }
+
 .login{
     margin-left: 45vmax;
-    color:grey
-    
+    color:grey 
 }
+
 .login:hover{
     color:#a0aec0;
 }
